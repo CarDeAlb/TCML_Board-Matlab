@@ -8,4 +8,5 @@ The scripts were not written for commercial propose and are open to be freely di
 Requirements: 
 - Windows 7, 8, and 10
 - Matlab 7.6 (or higher)
+   
    The drivers for the modules should be already installed.
